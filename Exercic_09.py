@@ -3,6 +3,7 @@ system ('cls')
 
 import time
 
-num = i
+i = 1
 
-for i in <-1 
+for i in range(100,0,-1):
+    print(f' ', i )

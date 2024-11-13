@@ -1,0 +1,9 @@
+from os import system
+system ('cls')
+
+import time
+
+i = 0
+for i in range(1,21):
+    i = i*i
+    print(f'',i)
